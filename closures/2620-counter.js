@@ -15,9 +15,6 @@ var createCounter = function(n) {
     };
 };
 
-let result = createCounter(10);
-console.log(result);
-
 /** 
  * const counter = createCounter(10)
  * counter() // 10
